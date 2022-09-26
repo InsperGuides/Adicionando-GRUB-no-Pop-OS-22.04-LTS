@@ -6,7 +6,7 @@ date: Setembro 2022
 Adicionando o GRUB no Pop OS (Pop-OS 22.04 LTS)
 ===
 
-Quando instalamos o Pop-OS, ela por padrão utiliza o systemd-boot (ou gummiboot) por padrão para inicializar o Sistema Operacional, e isto causa um problema quando estamos trabalhando com Dual Boot com outros OS, pois ele não irá detectar sozinho os demais sistemas instalados na sua máquina e criar o menu para boot de forma automática.
+Quando instalamos o Pop-OS, ela utiliza o systemd-boot (ou gummiboot) por padrão para inicializar o mesmo, e isto causa um problema quando estamos trabalhando com Dual Boot com outros OS, pois ele não irá detectar sozinho os demais sistemas instalados na sua máquina e criar o menu para boot de forma automática.
 
 Com este tutorial, iremos trocar o gummiboot pelo GRUB, fazendo com que todos os OS instalados apareçam corretamente ao ligar a máquina
 
