@@ -83,5 +83,5 @@ Antes de clicar em Apply, marque a opção *Save this configuration* logo acima.
 
 Após clicar em Apply, devemos reiniciar nosso computador, e caso tudo tenha sido feito corretamente, uma nova opção de boot chamada *pop* deverá aparecer no boot da BIOS. Este será o boot para o GRUB na sua máquina.
 
-Caso queira alterar a aparência ou ajsutar a ordem do GRUB, basta retornar ao seu Pop e abrir o Grub Customizer novamente para fazer estas configurações.
+Caso queira alterar a aparência ou ajustar a ordem do GRUB, basta retornar ao seu Pop e abrir o Grub Customizer novamente para fazer estas configurações.
 
