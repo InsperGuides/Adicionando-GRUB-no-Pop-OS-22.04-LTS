@@ -22,7 +22,7 @@ no bash, rode o seguinte comando:
 sudo apt install grub-efi grub2-common
 ```
 
-Após rodar o comando, basta esperar a conclusão da instalação dos dois pacotes. Porém, ainda precisamos instalar o pacote do GRUB Customizer. Para tal, precisamos primeiramente adicionar o repositório do programa com o comando abaixo:
+Após rodar o comando, basta esperar a conclusão da instalação dos dois pacotes. Porém, ainda precisamos instalar o pacote do GRUB Customizer. Para tal, precisamos primeiramente adicionar o repositório do pacote com o comando abaixo:
 
 ```
 sudo add-apt-repository ppa:danielrichter2007/grub-customizer
