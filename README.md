@@ -78,6 +78,7 @@ Dentro da nova tela, altere a opção OUTPUT_FILE com a linha abaixo, para criar
 ```
 
 Antes de clicar em Apply, marque a opção *Save this configuration* logo acima. No fim, seu setup deve estar como a imagem abaixo:
+
 ![image](https://user-images.githubusercontent.com/18387737/192347881-3ecea121-3e49-4085-8af8-c37a65fe302b.png)
 
 Após clicar em Apply, devemos reiniciar nosso computador, e caso tudo tenha sido feito corretamente, uma nova opção de boot chamada *pop* deverá aparecer no boot da BIOS. Este será o boot para o GRUB na sua máquina.
