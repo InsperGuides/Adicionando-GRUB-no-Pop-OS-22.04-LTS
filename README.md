@@ -34,7 +34,7 @@ em seguida, atualize o gerenciador de pacotes:
 sudo apt-get update
 ```
 
-Antes de prosseguirmos com a instalação do Grub Customizer, vams instalar o GRUB com o comando abaixo:
+Antes de prosseguirmos com a instalação do Grub Customizer, vamos instalar o GRUB com o comando abaixo:
 
 ```
 sudo grub Install
